@@ -17,8 +17,8 @@ Estudante de Desenvolvimento de Sistemas (Técnico SENAI, em fase de conclusão)
 
 ### 🚀 Projetos em Destaque
 
-- **[Skate SaaS Management]**: plataforma web para gerenciar estoque e sessões de uma loja de skate. Feita com React e PostgreSQL. [Demo ao vivo](#) | [Repositório](#)
-- **[Pokémon Data Explorer]**: aplicação web que consome APIs públicas para filtrar e exibir dados complexos de jogos. [Demo ao vivo](#) | [Repositório](#)
+- **[Skate SaaS Management]**: plataforma web para gerenciar estoque e sessões de uma loja de skate. Feita com React e PostgreSQL. [Demo ao vivo](https://my-street-burger-saas.vercel.app/skate-burger-street) | [Repositório](https://github.com/Miguel54075/my-skate-saas)
+- **[Pokémon Data Explorer]**: aplicação web que consome APIs públicas para filtrar e exibir dados complexos de jogos. [Demo ao vivo](https://miguel54075.github.io/PokemonUltra/) | [Repositório](https://github.com/Miguel54075/PokemonUltra)
 - **[IoT Environment Monitor]**: sistema de monitoramento de ambiente em tempo real, integrando sensores Arduino a um dashboard em React. *(Em desenvolvimento)*
 
 ### 📈 Estatísticas do GitHub
