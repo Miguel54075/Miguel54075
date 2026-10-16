@@ -85,7 +85,7 @@ Atuo em um programa de aprendizagem profissional que une estudo e prática, dese
 
 <p align="center">
   <img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Miguel54075&theme=radical&hide_border=true" />
-  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel54075&layout=compact&theme=radium&hide_border=true" />
+  <img height="170" alt="Top Languages" src="![Linguagens](/images/langs.png)" />
 </p>
 
 <p align="center">
