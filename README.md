@@ -17,8 +17,23 @@
 Estou concluindo o técnico em Desenvolvimento de Sistemas no SENAI e gosto de construir produtos completos: da interface em React e React Native até a API e o banco de dados. Também trabalho com **Arduino**, o que me permite conectar software e hardware em projetos de IoT.
 
 - 🔭 Estudando agora: **Inteligência Artificial** e **TypeScript**
-- 🎯 Procurando: vaga de **Desenvolvedor Júnior ou Estágio** (presencial, híbrido ou remoto)
+- 🎯 Procurando: vaga de **Desenvolvedor Júnior ou Estágio** (presencial, híbrido ou remoto), com disponibilidade a partir de **novembro/2026**
 - 🌎 Objetivo: construir carreira internacional, com inglês em evolução constante
+
+---
+
+## 💼 Experiência
+
+**Aprendiz em Desenvolvimento de Sistemas** · SENAI em parceria com a **Usina Santa Adélia**
+*Contrato de aprendizagem · até nov/2026*
+
+Atuo em um programa de aprendizagem profissional que une estudo e prática, desenvolvendo projetos em equipe durante a rotina de trabalho:
+
+- Desenvolvimento e consumo de **APIs**
+- Aplicação de **lógica de programação** na resolução de problemas reais
+- Modelagem e uso de **bancos de dados** relacionais e não relacionais
+- Elaboração de **documentação de projetos**
+- Versionamento de código e colaboração com **Git e GitHub**
 
 ---
 
@@ -36,8 +51,9 @@ Estou concluindo o técnico em Desenvolvimento de Sistemas no SENAI e gosto de c
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Hardware & Ferramentas**
 
