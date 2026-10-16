@@ -1,10 +1,11 @@
-# Hi, I'm Miguel 👋
+# Olá, eu sou o Miguel 👋
 
-**Software Developer | React & Mobile Ecosystem | IoT Enthusiast**
+**Desenvolvedor de Software | React & Mobile | Entusiasta de IoT**
 
-I'm a Systems Analysis and Development graduate focused on building scalable web and mobile applications. Currently seeking my first Junior/Internship role, blending frontend interfaces with backend logic and Arduino hardware integrations.
+Estudante de Desenvolvimento de Sistemas (Técnico SENAI, em fase de conclusão), focado em criar aplicações web e mobile escaláveis. Busco minha primeira oportunidade como **Desenvolvedor Júnior ou Estagiário**, unindo interfaces front-end, lógica de back-end e integrações de hardware com Arduino.
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologias
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -14,14 +15,17 @@ I'm a Systems Analysis and Development graduate focused on building scalable web
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-### 🚀 Featured Projects
-- **[Skate SaaS Management]**: A web platform to manage skateboard shop inventories and sessions. Built with React and PostgreSQL. [Live Demo] | [Repo]
-- **[Pokemon Data Explorer]**: A robust web application consuming public APIs to filter and display complex game data. [Live Demo] | [Repo]
-- **[IoT Environment Monitor]**: Real-time room monitoring system integrating Arduino sensors with a React dashboard. *(Work in Progress)*
+### 🚀 Projetos em Destaque
 
-### 📈 GitHub Stats
-[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miguel54074&show_icons=true&theme=radium)](https://github.com/Miguel54074)
+- **[Skate SaaS Management]**: plataforma web para gerenciar estoque e sessões de uma loja de skate. Feita com React e PostgreSQL. [Demo ao vivo](#) | [Repositório](#)
+- **[Pokémon Data Explorer]**: aplicação web que consome APIs públicas para filtrar e exibir dados complexos de jogos. [Demo ao vivo](#) | [Repositório](#)
+- **[IoT Environment Monitor]**: sistema de monitoramento de ambiente em tempo real, integrando sensores Arduino a um dashboard em React. *(Em desenvolvimento)*
 
-### 📫 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[seu-linkedin])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[seu-email@gmail.com])
+### 📈 Estatísticas do GitHub
+
+[![Estatísticas do Miguel](https://github-readme-stats.vercel.app/api?username=Miguel54074&show_icons=true&theme=radium)](https://github.com/Miguel54074)
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
